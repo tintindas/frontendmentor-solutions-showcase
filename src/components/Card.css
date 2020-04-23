@@ -1,0 +1,28 @@
+.card {
+    margin: 5vh 1vw;
+    border-radius: 10px;
+    box-shadow: 2px 5px 20px hsla(212, 94%, 46%, 0.35);
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+.card img {
+    width: 30vw;
+    border-radius: 10px 10px 0 0;
+}
+
+.card h1 {
+    padding: 30px 50px;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+.card a {
+    font-size: 1.8rem;
+    margin: 0 25px;
+    text-decoration: none;
+    border-radius: 50px;
+    transition: color 500ms ease, 
+}
+
+
