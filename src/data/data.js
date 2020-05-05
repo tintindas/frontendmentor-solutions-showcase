@@ -1,11 +1,19 @@
 const data = [
   {
+    name: 'Job Listings React App',
+    repo:
+      'https://github.com/tintindas/static-job-listings-react',
+    demo:
+      'https://tintindas.github.io/static-job-listings-react/',
+    date: '04-05-2020',
+  },
+  {
     name: 'Social Media Dashboard with Theme Switcher',
     repo:
       'https://github.com/tintindas/social-media-dashboard-with-theme-switcher',
     demo:
       'https://tintindas.github.io/social-media-dashboard-with-theme-switcher/',
-    date: '1-05-2020',
+    date: '01-05-2020',
   },
   {
     name: 'Fylo Landing Page with Two Column Layout',
