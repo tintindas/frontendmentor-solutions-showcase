@@ -6,12 +6,12 @@
 
 body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  background-image: url("/bg-desktop.svg");
+  background-image: url("%PUBLIC_URL%/bg-desktop.svg");
   background-color: #674baf;
 }
 
 @media (max-width: 1000px) {
   body {
-    background-image: url("/bg-mobile.svg");
+    background-image: url("%PUBLIC_URL%/bg-mobile.svg");
   }
 }
