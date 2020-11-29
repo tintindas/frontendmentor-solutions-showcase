@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b4a0da0c8a8732a860a43cae028cfa9",
+    "revision": "13129319a0f3db1e7f4f1be3bbaba979",
     "url": "/frontendmentor-solutions-showcase/index.html"
   },
   {
-    "revision": "5b9407ca25457eee3b3c",
-    "url": "/frontendmentor-solutions-showcase/static/css/main.5658aca5.chunk.css"
+    "revision": "ed1d56ca1345cf7175f9",
+    "url": "/frontendmentor-solutions-showcase/static/css/main.83105a9d.chunk.css"
   },
   {
     "revision": "705d9b7a2f0142e0ab59",
@@ -16,11 +16,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frontendmentor-solutions-showcase/static/js/2.bdcb9fc6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b9407ca25457eee3b3c",
+    "revision": "ed1d56ca1345cf7175f9",
     "url": "/frontendmentor-solutions-showcase/static/js/main.7c3c26ae.chunk.js"
   },
   {
     "revision": "639fbda416be0789421c",
     "url": "/frontendmentor-solutions-showcase/static/js/runtime-main.6fbb0efb.js"
+  },
+  {
+    "revision": "bbf1c96bd230d1d4845f0ffa730f7e35",
+    "url": "/frontendmentor-solutions-showcase/static/media/bg-desktop.bbf1c96b.svg"
+  },
+  {
+    "revision": "3b9d812e096dd718f15a8c95dc19c6ba",
+    "url": "/frontendmentor-solutions-showcase/static/media/bg-mobile.3b9d812e.svg"
   }
 ]);
