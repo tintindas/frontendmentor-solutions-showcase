@@ -1,9 +1,16 @@
 .grid {
-  margin: 2vh 2vw;
+  margin: 2vh auto;
   margin-top: 0;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
   text-align: center;
+  width: 90%;
+}
+
+.head,
+.git {
+  color: white;
 }
 
 @media (max-width: 1000px) {

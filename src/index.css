@@ -1,9 +1,17 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-image: url("/bg-desktop.svg");
+  background-color: #674baf;
+}
+
+@media (max-width: 1000px) {
+  body {
+    background-image: url("/bg-mobile.svg");
+  }
 }
