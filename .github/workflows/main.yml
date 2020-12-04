@@ -40,7 +40,7 @@ jobs:
         
       # Authenticate with Github
       - name: Github Authentication
-        run: git remote set-url origin https://tintindas:${{ secrets.TOKEN }}@github.com/tintindas/frontendmentor-solutions-showcase
+        run: git remote set-url origin https://tintindas:${{ secrets.GITHUB_TOKEN }}@github.com/tintindas/frontendmentor-solutions-showcase
       
       # Publish to Github Pages
       - name: Publish to Github Pages
